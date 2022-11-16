@@ -248,7 +248,9 @@ span {
   font-weight: 700;
 
   margin-bottom: 86px;
-
+  
+  cursor: pointer;
+  
   transition: 0.3s;
 }
 .content__button:hover {
